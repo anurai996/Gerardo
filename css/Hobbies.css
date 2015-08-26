@@ -1,0 +1,26 @@
+
+body{
+	margin:0 auto;
+	width:80%;
+	background-color: #9f9f9f;
+}
+.content{
+	margin:0 auto;
+	background-color: #EFEAF4;
+	height:100%;
+}
+h3{
+	text-align: center;
+}
+tr{
+	padding-bottom:0px;
+}
+td img{
+	height:100px;
+	width:150px;
+	margin:0;
+	padding-bottom:0px;
+}
+td{
+	border:1px solid black;
+}

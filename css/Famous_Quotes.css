@@ -1,0 +1,16 @@
+body{
+	margin:0 auto;
+	width:70%;
+	background-color:gray;
+}
+p{
+	font-family: cursive;
+}
+.quotes p{
+	background-color: white;
+	margin-top:0px;
+	margin-bottom:10px;
+	padding:10px;
+	border-radius:6px;
+
+}

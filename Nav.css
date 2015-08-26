@@ -1,0 +1,24 @@
+#Nav li {
+	font-family: cursive;
+	display: inline;
+	background-color: green;
+	margin-top:0px;
+	margin-bottom:10px;
+	padding:10px;
+	border-radius:6px;
+}
+
+#Nav {
+	background-color: black;
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+	color: #151515;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #151515;
+}

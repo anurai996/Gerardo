@@ -1,15 +1,25 @@
-li {
+.Nav li{
 	font-family: cursive;
-	display: inline;
-	background-color: white;
-	margin-top:0px;
-	margin-bottom:10px;
-	padding:10px;
-	border-radius:6px;
+	display: inline-block;
+	padding:20px;
+	background-color:green;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
 }
 
-div#Nav {
-	text-align: center
+#it{
+	background-color:orange;
+}
+#title{
+	text-align: center;
+	padding:0px;
+	margin-top:-16px;
+	background-color:orange;
+}
+.Nav {
+	background-color:white;
+	text-align: center;
+	margin-bottom: 0px;
 }
 
 a:link {
